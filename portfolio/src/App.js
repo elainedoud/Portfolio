@@ -10,8 +10,8 @@ function App() {
         </a>
       </header>
       <body>
-        <a>Project Name One</a>
-        <a>Project Name Two</a>
+        <a className="projectlist">Project Name One</a>
+        <a className="projectlist">Project Name Two</a>
       </body>
     </div>
   );
