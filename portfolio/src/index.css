@@ -1,5 +1,5 @@
 body {
-  margin: auto; width: 50%; height: 50%; padding: 10px;
+  margin: auto; width: 50%; height: 50%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -15,3 +15,7 @@ code {
 .projectlist{
   padding: 10px
 }
+
+/*Notes - For Portfolio Heading, I want no spacing on the left or right, but it should only 
+come down the page 25% (Right now it's at 95% of the page.  Also, I would like Project Name One and Project Name 
+Two to stack on top of each other*/
