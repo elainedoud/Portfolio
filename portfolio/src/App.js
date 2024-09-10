@@ -9,10 +9,10 @@ function App() {
           Portfolio
         </a>
       </header>
-      <body>
+      <div className="App-body">
         <a className="projectlist">Project Name One</a>
         <a className="projectlist">Project Name Two</a>
-      </body>
+      </div>
     </div>
   );
 }
