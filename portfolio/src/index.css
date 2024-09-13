@@ -1,4 +1,5 @@
 body {
+  height: 100%;
   margin: 0; 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -18,8 +19,8 @@ code {
 }
 
 .App-header{
-  width: 100%;
-  height: 20%;
+  width: 50 px;
+  height: 50 px;
   background-color: #282c34;
   display: flex;
   justify-content: center;
