@@ -22,14 +22,9 @@ code {
   width: 50 px;
   height: 50 px;
   background-color: #282c34;
-  display: flex;
   justify-content: center;
   align-items: center;
   color: white;
-}
-
-.App-body{
-  padding: 20px;
 }
 
 .projectlist{
