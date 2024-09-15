@@ -26,12 +26,6 @@ code {
   justify-content: center;
 }
 
-.App-body{
-  align-items: center;
-  justify-content: center;
-  margin-bottom: -10px;
-}
-
 .projectlist {
   margin-top: 10px;
   margin-bottom: 10px;
