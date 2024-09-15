@@ -29,6 +29,7 @@ code {
 .projectlist {
   margin-top: 10px;
   margin-bottom: 10px;
+  border-color: red;
 }
 
 /* Make title at top thicker; Add spacing between project names and put them on top of each other*/
