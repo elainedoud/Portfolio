@@ -27,9 +27,14 @@ code {
 }
 
 .App-body{
-  padding: 10px;
   align-items: center;
-  justify-content: center
+  justify-content: center;
+  margin-bottom: -10px;
+}
+
+.projectlist {
+  margin-top: 10 px;
+  margin-bottom: 10 px;
 }
 
 /* Make title at top thicker; Add spacing between project names and put them on top of each other*/
