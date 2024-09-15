@@ -1,6 +1,4 @@
 body {
-  height: 100%;
-  margin: 0; 
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -14,8 +12,6 @@ code {
 }
 
 .App-header{
-  width: 100%;
-  height: 25%;
   background-color: #282c34;
   font-size: large;
   justify-content: center;
@@ -27,10 +23,10 @@ code {
 }
 
 .App-body{
-  width: 100%;
-  height: 75%;
   padding: 10px;
   display: flex;
   align-items: center;
   justify-content: center
 }
+
+/* Make title at top thicker; Add spacing between project names and put them on top of each other*/
